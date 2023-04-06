@@ -1,15 +1,19 @@
-# reflective_colors
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+![Dart Version](https://img.shields.io/static/v1?label=dart&message=2.19.3&color=00579d)
+![Flutter Version](https://img.shields.io/static/v1?label=flutter&message=3.0.0&color=42a5f5)
+![Null Safety](https://img.shields.io/static/v1?label=null-safety&message=done&color=success)
 
-A new Flutter project.
+# 🪩 Reflective Colors App
+
+Flutter app using the plugin  [reflective_visual](https://pub.dev/packages/reflective_visual) for nice reflection styles on widgets.
+
+<p align="middle">
+<div width="20%"></div>
+<img src="https://github.com/jonathan1313/reflective_colors/blob/main/assets/images/app_example.gif?raw=true" width="60%">
+<div width="20%"></div>
+</p>
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,

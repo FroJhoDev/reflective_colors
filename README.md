@@ -8,9 +8,9 @@
 Flutter app using the plugin  [reflective_visual](https://pub.dev/packages/reflective_visual) for nice reflection styles on widgets.
 
 <p align="middle">
-<div width="20%"></div>
-<img src="https://github.com/jonathan1313/reflective_colors/blob/main/assets/images/app_example.gif?raw=true" width="60%">
-<div width="20%"></div>
+<div width="40%"></div>
+<img src="https://github.com/jonathan1313/reflective_colors/blob/main/assets/images/app_example.gif?raw=true" width="20%">
+<div width="40%"></div>
 </p>
 
 ## Getting Started
